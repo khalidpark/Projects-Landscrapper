@@ -1,3 +1,18 @@
+### 네이버부동산의 외부 스크래핑 방지가 있는 걸로 나옴
+### 다른 사이트의 다른 아이디어로 다시 도전해보기로 함.
+
+####
+서비스 이용이 제한되었습니다.
+        </p>
+<p class="p_error">
+            사용중이신 PC 또는 네트워크에서 네이버 부동산의 정상적인 사용을 방해하는<br/>
+            비정상적인 접근이 감지되었습니다.
+        </p>
+<p class="p_error">
+            bot 프로그램 등을 이용한 비정상적인 접근이 확인되는 경우, 임시적으로<br/>
+            서비스 이용을 제한하고 있습니다.
+
+-------------------------------------------
 # Projects-Landscrapper
 get land sale information scrapper from naver
 ##### directly git from Repl.it
